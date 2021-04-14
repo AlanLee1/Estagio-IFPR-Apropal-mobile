@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item android:id="@+id/menuPesquisa"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_pesquisar"
+        android:title="Pesquisar" />
+    <item android:id="@+id/menuAdd"
+        android:title="Adicionar"
+        app:showAsAction="never"
+        />
+</menu>

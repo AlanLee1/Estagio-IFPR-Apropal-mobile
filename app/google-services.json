@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "684157369910",
+    "firebase_url": "https://propal-teste.firebaseio.com",
+    "project_id": "propal-teste",
+    "storage_bucket": "propal-teste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684157369910:android:4f7b55078ea14739376297",
+        "android_client_info": {
+          "package_name": "br.com.apropal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684157369910-80jcqpmbb08rb33cpvh7qjjj7127cldr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yQMPto_k-imrysNJAMv4qqmxDRwNt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684157369910-80jcqpmbb08rb33cpvh7qjjj7127cldr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684157369910:android:f2de977b5a8a4dd6376297",
+        "android_client_info": {
+          "package_name": "br.edu.bsi.apppropal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684157369910-fdscscoe1diq57785nmv4frbdgtchl2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.bsi.apppropal",
+            "certificate_hash": "66f54db4376e6be10ad43d46fda7379a5b337666"
+          }
+        },
+        {
+          "client_id": "684157369910-80jcqpmbb08rb33cpvh7qjjj7127cldr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2yQMPto_k-imrysNJAMv4qqmxDRwNt7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684157369910-80jcqpmbb08rb33cpvh7qjjj7127cldr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
